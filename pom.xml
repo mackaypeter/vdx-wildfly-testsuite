@@ -40,7 +40,7 @@
         <version.junit.vintage>4.12.0</version.junit.vintage>
         <version.org.jboss.arquillian>1.1.13.Final</version.org.jboss.arquillian>
         <version.org.jboss.logging.jboss-logging>3.3.1.Final</version.org.jboss.logging.jboss-logging>
-        <version.org.jboss.wildfly.dist>11.0.0.CR1</version.org.jboss.wildfly.dist>
+        <version.org.jboss.wildfly.dist>11.0.0.Final</version.org.jboss.wildfly.dist>
         <version.org.wildfly.arquillian>2.1.0.Final</version.org.wildfly.arquillian>
         <version.org.wildfly.extras.creaper>1.6.1</version.org.wildfly.extras.creaper>
 

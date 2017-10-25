@@ -1,7 +1,7 @@
 install:
  - mvn clean
 script:
- - mvn -B -Pall test -Dversion.org.jboss.wildfly.dist=11.0.0.CR1
+ - mvn -B -Pall test
 language: java
 jdk:
   - oraclejdk8
